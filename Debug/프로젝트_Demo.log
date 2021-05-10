@@ -1,0 +1,6 @@
+﻿  소스.cpp
+D:\C언어응용\프로젝트_Demo\소스.cpp(37,10): warning C4551: 함수 호출에 인수 목록이 없습니다.
+D:\C언어응용\프로젝트_Demo\소스.cpp(38,10): warning C4551: 함수 호출에 인수 목록이 없습니다.
+D:\C언어응용\프로젝트_Demo\소스.cpp(39,10): warning C4551: 함수 호출에 인수 목록이 없습니다.
+D:\C언어응용\프로젝트_Demo\소스.cpp(290,7): warning C4101: 'search_input' :참조되지 않은 지역 변수입니다.
+  프로젝트_Demo.vcxproj -> D:\C언어응용\프로젝트_Demo\Debug\프로젝트_Demo.exe
